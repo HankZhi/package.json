@@ -1,7 +1,7 @@
 # package.json
 我的package.json字段备注表
 - :mortar_board: 官方相关
-- :computer: 编译器相关
+- :computer: 第三方相关
 
 # 注释
 ```json
